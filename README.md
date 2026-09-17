@@ -3,7 +3,7 @@
 > ✨ A curated directory of quality GitHub repositories — auto-maintained by
 > [GitCurator](https://github.com/assadigit/GitCurator).
 
-📊 **614 repos** · 🗂️ **22 categories** · 🕰️ Updated 2026-09-17
+📊 **616 repos** · 🗂️ **22 categories** · 🕰️ Updated 2026-09-17
 
 ## 📇 Contents
 
@@ -22,14 +22,14 @@
 - [🏗️ Frameworks](#-frameworks)
   - [🗄️ Backend](#-backend-10)
   - [🎨 Frontend](#-frontend-16)
-  - [🌐 Web Frameworks](#-web-frameworks-4)
+  - [🌐 Web Frameworks](#-web-frameworks-5)
 - [🏗️ Infrastructure](#-infrastructure)
   - [☁️ Cloud](#-cloud-3)
   - [🚀 Deployment](#-deployment-3)
 - [🛠️ Tools](#-tools)
   - [⚙️ Automation](#-automation-31)
   - [🧰 Dev Tools](#-dev-tools-53)
-  - [🎨 Media](#-media-71)
+  - [🎨 Media](#-media-72)
   - [🌐 Networking](#-networking-8)
   - [🕷️ Scraping](#-scraping-44)
 - [📦 Uncategorized](#-uncategorized)
@@ -468,8 +468,9 @@ _Curated repositories for the frameworks._
 - 📦 [familyjs/famicons](https://github.com/familyjs/famicons) — Open-source icon set with 1,300 Material/iOS-style SVGs and a lazy-loading web component for cross-platform UI. · ⭐ 25 · 🔧 TypeScript · `typescript` `icons` `svg` `web-components` `frontend` `family-framework` `html` `css` `javascript` `url`
 - 📦 [stash-ui/icons](https://github.com/stash-ui/icons) — React TypeScript icon set with five SVG style variants for UI projects. · ⭐ 19 · 🔧 TypeScript · `typescript` `react` `svg` `icons` `frontend` `iconset` `react-icons` `react-icons-component` `svg-icons` `javascript` `url`
 
-### 🌐 Web Frameworks (4)
+### 🌐 Web Frameworks (5)
 
+- 📦 [honojs/hono](https://github.com/honojs/hono) — Lightweight, Web Standards-based web framework running on Cloudflare Workers, Deno, Bun, AWS Lambda, and Node.js. · ⭐ 32.3k · 🔧 TypeScript · `typescript` `web-framework` `cloudflare-workers` `deno` `edge-computing` `cloudflare` `npm` `router` `bun` `aws-lambda` `javascript`
 - 📦 [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) — Self-hostable bookmark manager with AI tagging and summarization. · ⭐ 27.5k · 🔧 TypeScript · `typescript` `nextjs` `react-native` `ollama` `self-hosted` `bookmarks` `bookmarks-manager` `read-it-later` `bookmark-manager` `shell` `javascript` `astro`
 - 📦 [amilich/isometric-city](https://github.com/amilich/isometric-city) — Self-hosted isometric city and theme park simulation game built with NextJS, TypeScript, and HTML5 Canvas. · ⭐ 2,183 · 🔧 TypeScript · `typescript` `nextjs` `typescript` `canvas` `simulation` `game` `css` `javascript` `shell` `url`
 - 📦 [ioniks/MarkdownTaskManager](https://github.com/ioniks/MarkdownTaskManager) — Local-first Kanban task manager built from plain text Markdown files. · ⭐ 512 · 🔧 JavaScript · `javascript` `javascript` `html` `markdown` `self-hosted` `git` `css` `url`
@@ -595,7 +596,7 @@ _Curated repositories for the tools._
 - 📦 [victortassinari/FossFLOW](https://github.com/victortassinari/FossFLOW) — Open-source PWA diagramming tool with auto-save, privacy-first local storage, and JSON import/export. · ⭐ 21 · `react` `javascript` `pwa` `diagramming` `offline` `typescript` `css` `html` `url`
 - 📦 [johuellm/archive-ph](https://github.com/johuellm/archive-ph) — Firefox extension that adds a context menu to open links in archive.ph quickly. · ⭐ 6 · 🔧 JavaScript · `javascript` `firefox` `extension` `archive.ph` `browser` `web-archiving` `url`
 
-### 🎨 Media (71)
+### 🎨 Media (72)
 
 - 📦 [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) — Web interface for Stable Diffusion image generation with inpainting, outpainting, and upscaling tools. · ⭐ 164k · 🔧 Python · `python` `python` `gradio` `stable-diffusion` `image-generation` `media` `deep-learning` `diffusion` `image2image` `img2img` `text2image` `txt2img`
 - 📦 [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) — Open-source Stable Diffusion GUI and API with modular graph/nodes interface for AI content creation. · ⭐ 119.6k · 🔧 Python · `python` `stable-diffusion` `pytorch` `ai` `python` `comfyui` `comfy` `glsl` `batchfile` `mako` `url`
@@ -646,6 +647,7 @@ _Curated repositories for the tools._
 - 📦 [Tencent-Hunyuan/HY-Motion-1.0](https://github.com/Tencent-Hunyuan/HY-Motion-1.0) — Open-source model for generating 3D human motion and character animation using flow matching. · ⭐ 2,440 · 🔧 Python · `python` `python` `ai` `motion` `3d` `flow-matching` `html` `url`
 - 📦 [chrisbenincasa/tunarr](https://github.com/chrisbenincasa/tunarr) — Create custom live TV channels from your Plex/Jellyfin/Emby media library, streamed as IPTV. · ⭐ 2,437 · 🔧 TypeScript · `typescript` `ffmpeg` `iptv` `plex` `jellyfin` `emby` `local-streaming` `media-streaming` `self-hosted` `streaming` `tv` `swift`
 - 📦 [chrisbenincasa/tunarr](https://github.com/chrisbenincasa/tunarr) — Turn your Plex/Jellyfin/Emby library into a live IPTV channel with a spoofed HDHomeRun tuner. · ⭐ 2,437 · 🔧 TypeScript · `typescript` `ffmpeg` `iptv` `plex` `self-hosted` `streaming` `local-streaming` `media-streaming` `tv` `emby` `jellyfin` `swift`
+- 📦 [visomaster/VisoMaster](https://github.com/visomaster/VisoMaster) — AI-powered desktop tool for face swapping/editing in videos with multi-model support, live webcam output, and TensorRT GPU acceleration. · ⭐ 2,081 · 🔧 Python · `python` `deep-learning` `face-swap` `video-editing` `tensorrt` `ai` `deepfake` `face-editor` `live-portrait` `faceswap` `video-editor`
 - 📦 [walterlow/freecut](https://github.com/walterlow/freecut) — Browser-based multi-track video editor with keyframe animation, AI generation, and export via WebGPU/WebCodecs. Runs entirely in your browser with no uploads or server dependencies. Projects and media stay local while editing, preview, analysis, transcription, AI generation, and export run in the browser through WebGPU, WebCodecs, Web Workers, OPFS, and the File System Access API. · ⭐ 1,780 · 🔧 TypeScript · `typescript` `typescript` `react` `video-editing` `webgpu` `open-source` `video-editor` `mediabunny` `webcodecs` `videoeditor` `javascript` `css`
 - 📦 [elder-plinius/st3gg](https://github.com/elder-plinius/st3gg) — st3gg is a comprehensive steganography toolkit for Python that hides arbitrary data in any file type (images, audio, video, text) and provides extraction utilities. · ⭐ 1,642 · 🔧 HTML · `html` `python` `steganography` `stego` `AGPL-3.0` `data-hiding` `steganalysis` `javascript` `url`
 - 📦 [phuc-nt/my-translator](https://github.com/phuc-nt/my-translator) — My Translator is a privacy-focused desktop application that processes audio locally on macOS and Windows without sending data to any server. It captures system audio or microphone input, transcribes it in real-time, and overlays translated text on screen. The app uses Rust and Tauri for cross-platform compatibility, supports both English and Vietnamese, and includes free text-to-speech functionality. · ⭐ 1,253 · 🔧 Python · `python` `rust` `tauri` `speech-to-text` `text-to-speech` `privacy` `macos` `real-time` `soniox` `speech-translation` `stt` `tts`

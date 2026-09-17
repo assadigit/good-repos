@@ -1,13 +1,13 @@
 ---
 type: master-index
-last_updated: 2026-09-17 06:07
-total_projects: 636
+last_updated: 2026-09-18 02:46
+total_projects: 641
 ---
 
 # 📚 Projects Master Index
 
-> Auto-generated. Last updated: 2026-09-17 06:07
-> Total projects: **636** | Categories: **33** | Review queue: **22**
+> Auto-generated. Last updated: 2026-09-18 02:46
+> Total projects: **641** | Categories: **34** | Review queue: **22**
 
 ## 📁 By Category
 
@@ -65,12 +65,13 @@ total_projects: 636
 - [[chrome-devtools-mcp_MCP_typescrip]] — ⭐ 52121 · 🔧 TypeScript · 📊 69.0/100
 - [[design-extract_MCP_htm]] — ⭐ 4101 · 🔧 HTML · 📊 62.0/100
 
-### "Media" (4)
+### "Media" (5)
 → [[_moc/Media|View MOC]]
 
 - [[Stirling-PDF_Media_typescrip]] — ⭐ 92326 · 🔧 TypeScript · 📊 72.0/100
 - [[ultimatevocalremovergui_Media_pytho]] — ⭐ 26260 · 🔧 Python · 📊 56.0/100
 - [[buzz_Media_pytho]] — ⭐ 21525 · 🔧 Python · 📊 70.5/100
+- [[VisoMaster_Media_pytho]] — ⭐ 2081 · 🔧 Python · 📊 46.0/100
 - [[versik-cli_Media_pytho]] — ⭐ 24 · 🔧 Python · 📊 37.0/100
 
 ### "References" (3)
@@ -89,6 +90,11 @@ total_projects: 636
 → [[_moc/Uncategorized|View MOC]]
 
 - [[VCamdroid_Uncategorized_c]] — ⭐ 473 · 🔧 C++ · 📊 38.0/100
+
+### "Web-Frameworks" (1)
+→ [[_moc/Web-Frameworks|View MOC]]
+
+- [[hono_Web-Frameworks_typescrip]] — ⭐ 32256 · 🔧 TypeScript · 📊 69.0/100
 
 ### Agents (34)
 → [[_moc/Agents|View MOC]]
@@ -284,7 +290,7 @@ total_projects: 636
 - [[beautify-github-readme_Skills_pytho]] — ⭐ 1447 · 🔧 Python · 📊 50.0/100
 - ... and 4 more in [[_moc/Skills|MOC]]
 
-### Uncategorized (21)
+### Uncategorized (24)
 → [[_moc/Uncategorized|View MOC]]
 
 - [[RAG_Techniques_Uncategorized_jupyter noteboo]] — ⭐ 28772 · 🔧 Jupyter Notebook · 📊 66.0/100
@@ -292,7 +298,7 @@ total_projects: 636
 - [[xournalpp_Uncategorized_c++_v]] — ⭐ 15254 · 🔧 C++ · 📊 72.0/100
 - [[stable-diffusion-webui-forge_Uncategorized_pytho]] — ⭐ 12805 · 🔧 Python · 📊 53.0/100
 - [[kepler_gl_Uncategorized_typescrip]] — ⭐ 11918 · 🔧 TypeScript · 📊 72.0/100
-- ... and 16 more in [[_moc/Uncategorized|MOC]]
+- ... and 19 more in [[_moc/Uncategorized|MOC]]
 
 ### Web-Frameworks (4)
 → [[_moc/Web-Frameworks|View MOC]]
@@ -342,9 +348,9 @@ total_projects: 636
 
 ## 💻 By Language
 
-- Python: 227 projects
-- TypeScript: 140 projects
-- N/A: 74 projects
+- Python: 228 projects
+- TypeScript: 141 projects
+- N/A: 77 projects
 - JavaScript: 53 projects
 - HTML: 25 projects
 - Rust: 22 projects
