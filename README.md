@@ -3,13 +3,13 @@
 > ✨ A curated directory of quality GitHub repositories — auto-maintained by
 > [GitCurator](https://github.com/assadigit/GitCurator).
 
-📊 **611 repos** · 🗂️ **21 categories** · 🕰️ Updated 2026-09-16
+📊 **614 repos** · 🗂️ **22 categories** · 🕰️ Updated 2026-09-17
 
 ## 📇 Contents
 
 - [🤖 AI Domain](#-ai-domain)
   - [🧠 Agents](#-agents-34)
-  - [🏗️ Agents / Frameworks](#-agents--frameworks-31)
+  - [🏗️ Agents / Frameworks](#-agents--frameworks-32)
   - [🧠 Agents / Implementations](#-agents--implementations-40)
   - [✨ Agents / Skills](#-agents--skills-63)
   - [🧰 LLM Tools](#-llm-tools-103)
@@ -32,6 +32,7 @@
   - [🎨 Media](#-media-71)
   - [🌐 Networking](#-networking-8)
   - [🕷️ Scraping](#-scraping-44)
+- [📦 Uncategorized](#-uncategorized)
 
 ## 🤖 AI Domain
 
@@ -74,7 +75,7 @@ _Curated repositories for the AI domain._
 - 📦 [opengeos/GeoAgent](https://github.com/opengeos/GeoAgent) — Shared AI agent layer for geospatial Python packages, live map widgets, and QGIS integration. · ⭐ 409 · 🔧 Python · `python` `python` `ai-agent` `geospatial` `qgis` `open-source` `qgis-plugin` `shell` `url`
 - 📦 [julesdg6/hermes-unraid](https://github.com/julesdg6/hermes-unraid) — Self-hosted AI agent suite packaged for Unraid, combining Hermes Agent, Dashboard, and WebUI into a single container template. · ⭐ 4 · 🔧 Shell · `shell` `ai-agent` `self-hosted` `unraid` `docker` `automation` `dockerfile` `python` `url`
 
-### 🏗️ Agents / Frameworks (31)
+### 🏗️ Agents / Frameworks (32)
 
 - 📦 [obra/superpowers](https://github.com/obra/superpowers) — Superpowers is a software development methodology designed for AI coding agents. It provides a structured workflow that starts by clarifying requirements, then produces detailed design specifications, and finally generates implementation plans that adhere to TDD, YAGNI, and DRY principles. The framework integrates with multiple agent platforms like Claude Code and Antigravity, enabling agents to follow rigorous engineering practices. · ⭐ 256.6k · 🔧 Shell · `shell` `ai` `agent-framework` `software-development-methodology` `claude-code` `coding-agents` `brainstorming` `coding` `obra` `sdlc` `skills` `superpowers`
 - 📦 [affaan-m/ecc](https://github.com/affaan-m/ecc) — ECC is a meta-framework for AI agent development and optimization. It provides a unified harness that standardizes workflows across multiple platforms including Claude Code, Cursor, Opencode, and Codex. The platform offers tools for managing skills, instincts, memory systems, security protocols, and research-first development methodologies. · ⭐ 226.8k · 🔧 JavaScript · `javascript` `ai-agents` `claude` `mcp` `developer-tools` `productivity` `anthropic` `claude-code` `llm` `rust` `python` `shell`
@@ -88,6 +89,7 @@ _Curated repositories for the AI domain._
 - 📦 [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) — Open-source framework for orchestrating autonomous AI agents that collaborate on complex tasks via role-playing and shared memory. · ⭐ 55k · 🔧 Python · `python` `python` `agents` `framework` `llm` `orchestration` `ai` `ai-agents` `llms` `aiagentframework` `javascript` `css`
 - 📦 [run-llama/llama_index](https://github.com/run-llama/llama_index) — LlamaIndex framework for building AI agents that process documents and perform RAG with LLMs. · ⭐ 50.7k · 🔧 Python · `python` `python` `llm` `agent` `framework` `rag` `agents` `application` `data` `fine-tuning` `llamaindex` `vector-database`
 - 📦 [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) — AI productivity studio integrating 300+ autonomous agents with unified frontier LLM access. Smart chat, modular skills. · ⭐ 48.2k · 🔧 TypeScript · `typescript` `ai-agent` `llm` `framework` `automation` `productivity` `claude-code` `skills` `codex` `vibe-coding` `openclaw` `deepseek`
+- 📦 [agno-agi/agno](https://github.com/agno-agi/agno) — SDK for building and managing multi-agent platforms with production services, tracing, scheduling, RBAC, and self-hosted UI. · ⭐ 41k · 🔧 Python · `python` `python` `agents` `sdk` `self-hosted` `automation` `developer-tools` `ai` `ai-agents` `shell` `html` `batchfile`
 - 📦 [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) — Open-source AI agent framework that works across IM platforms (QQ, Discord, Telegram) with LLM integration. · ⭐ 39.3k · 🔧 Python · `python` `python` `ai-agent` `framework` `mcp` `self-hosted` `ai` `chatbot` `chatgpt` `openai` `qqbot` `gpt`
 - 📦 [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) — Low-level orchestration framework for building stateful AI agents. · ⭐ 36.6k · 🔧 Python · `python` `python` `ai-agents` `langchain` `pydantic` `framework` `agents` `ai` `chatgpt` `deepagents` `enterprise` `gemini`
 - 📦 [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) — OpenMontage is the first open-source agentic video production system, turning AI coding assistants into full studios. It offers 12 pipelines, 52 tools, and 500+ agent skills for end-to-end video creation from prompts to final renders. · ⭐ 34.3k · 🔧 Python · `python` `python` `agent` `video-generation` `open-source` `llm` `agentic-ai` `ai` `claude` `copilot` `cursor` `elevenlabs`
@@ -724,6 +726,13 @@ _Curated repositories for the tools._
 - 📦 [h9zdev/SocioSential](https://github.com/h9zdev/SocioSential) — Open-source OSINT framework that scrapes social media to detect sentiment shifts and behavioral anomalies. · ⭐ 43 · 🔧 HTML · `html` `python` `osint` `scraping` `sentiment-analysis` `data-analysis` `css` `url`
 - 📦 [GooglyBlox/free-soundsnap-audios](https://github.com/GooglyBlox/free-soundsnap-audios) — A web app and userscript that fetches/downloads audio files from Soundsnap.com without a premium subscription. · ⭐ 16 · 🔧 JavaScript · `javascript` `scraping` `audio` `userscript` `nodejs` `download` `css` `html` `url`
 - 📦 [GooglyBlox/free-soundsnap-audios](https://github.com/GooglyBlox/free-soundsnap-audios) — Web app and userscript that fetches audio sources from Soundsnap without requiring a premium subscription. · ⭐ 16 · 🔧 JavaScript · `javascript` `scraping` `audio` `nodejs` `userscript` `self-hosted` `css` `html` `url`
+
+## 📦 Uncategorized
+
+_Curated repositories for the uncategorized._
+
+- 📦 
+- 📦 
 
 ---
 

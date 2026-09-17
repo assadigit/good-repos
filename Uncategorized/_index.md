@@ -1,13 +1,13 @@
 ---
 type: master-index
-last_updated: 2026-09-17 06:07
-total_projects: 636
+last_updated: 2026-09-16 19:07
+total_projects: 648
 ---
 
 # 📚 Projects Master Index
 
-> Auto-generated. Last updated: 2026-09-17 06:07
-> Total projects: **636** | Categories: **33** | Review queue: **22**
+> Auto-generated. Last updated: 2026-09-16 19:07
+> Total projects: **648** | Categories: **32** | Review queue: **22**
 
 ## 📁 By Category
 
@@ -84,11 +84,6 @@ total_projects: 636
 → [[_moc/Skills|View MOC]]
 
 - [[make-interfaces-feel-better_Skills_markdow]] — ⭐ 3451 · 🔧 Markdown · 📊 50.0/100
-
-### "Uncategorized" (1)
-→ [[_moc/Uncategorized|View MOC]]
-
-- [[VCamdroid_Uncategorized_c]] — ⭐ 473 · 🔧 C++ · 📊 38.0/100
 
 ### Agents (34)
 → [[_moc/Agents|View MOC]]
@@ -284,7 +279,7 @@ total_projects: 636
 - [[beautify-github-readme_Skills_pytho]] — ⭐ 1447 · 🔧 Python · 📊 50.0/100
 - ... and 4 more in [[_moc/Skills|MOC]]
 
-### Uncategorized (21)
+### Uncategorized (34)
 → [[_moc/Uncategorized|View MOC]]
 
 - [[RAG_Techniques_Uncategorized_jupyter noteboo]] — ⭐ 28772 · 🔧 Jupyter Notebook · 📊 66.0/100
@@ -292,7 +287,7 @@ total_projects: 636
 - [[xournalpp_Uncategorized_c++_v]] — ⭐ 15254 · 🔧 C++ · 📊 72.0/100
 - [[stable-diffusion-webui-forge_Uncategorized_pytho]] — ⭐ 12805 · 🔧 Python · 📊 53.0/100
 - [[kepler_gl_Uncategorized_typescrip]] — ⭐ 11918 · 🔧 TypeScript · 📊 72.0/100
-- ... and 16 more in [[_moc/Uncategorized|MOC]]
+- ... and 29 more in [[_moc/Uncategorized|MOC]]
 
 ### Web-Frameworks (4)
 → [[_moc/Web-Frameworks|View MOC]]
@@ -304,6 +299,7 @@ total_projects: 636
 
 ## 🔍 Review Queue
 
+- [[agno_Agents_Frameworks_pytho]] — ⚠️ Low confidence
 - [[awesome-gpt-image-2_Uncategorized_javascrip]] — ⚠️ Low confidence
 - [[bigcapital_Uncategorized_typescrip]] — ⚠️ Low confidence
 - [[daktilo_Dev-Tools_rus]] — ⚠️ Low confidence
@@ -323,7 +319,6 @@ total_projects: 636
 - [[subfarsi_Uncategorized_pytho]] — ⚠️ Low confidence
 - [[trip_Uncategorized_htm]] — ⚠️ Low confidence
 - [[ux-ui-agent-skills_Uncategorized_javascrip]] — ⚠️ Low confidence
-- [[VCamdroid_Uncategorized_c]] — ⚠️ Low confidence
 - [[worldview_Uncategorized_javascrip]] — ⚠️ Low confidence
 - [[xournalpp_Uncategorized_c++_v]] — ⚠️ Low confidence
 
@@ -344,13 +339,13 @@ total_projects: 636
 
 - Python: 227 projects
 - TypeScript: 140 projects
-- N/A: 74 projects
+- N/A: 87 projects
 - JavaScript: 53 projects
 - HTML: 25 projects
 - Rust: 22 projects
 - Shell: 16 projects
 - Go: 13 projects
-- C++: 12 projects
+- C++: 11 projects
 - Jupyter Notebook: 10 projects
 - Java: 8 projects
 - C#: 6 projects
